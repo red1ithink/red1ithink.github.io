@@ -24,7 +24,7 @@ video {
 	justify-content: center;
 	align-items: center;
 	text-align: center;
-	color: #E5A823;
+	color: #F7D154;
 	font-size: 2rem;
 	text-shadow: 2px 2px 2px black;
 	z-index: 1;
@@ -32,6 +32,6 @@ video {
 
 @media (prefers-color-scheme: dark) {
 	.overlay {
-	  color: #E5A823;
+	  color: #F7D154;;
 	}
   }
