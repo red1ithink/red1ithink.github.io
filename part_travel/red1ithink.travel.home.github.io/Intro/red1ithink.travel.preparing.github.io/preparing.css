@@ -30,7 +30,7 @@ video {
 	z-index: 1;
 }
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: light) {
 	.overlay {
 	  color: #F7D154;;
 	}
